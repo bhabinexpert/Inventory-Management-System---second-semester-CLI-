@@ -1,0 +1,13 @@
+WE CARE SKIN PRODUCTS
+Timestamp: 2025_5_19_13_13_47
+==============================
+Product: Hair cream
+Quantity: 10
+Vendor Name: Set wet
+Total Cost: RS: 2000.00
+VAT (13%): RS: 260.00
+==============================
+Total Amount: Rs: 2000.00
+Total VAT: Rs: 260.00
+Total Amount Including VAT: Rs: 2260.00
+==============================

@@ -1,0 +1,19 @@
+WE CARE SKIN PRODUCTS
+Timestamp: 2025_5_19_13_12_58
+==============================
+Product: Toner
+Quantity: 20
+Vendor Name: Neutrogena
+Total Cost: RS: 8000.00
+VAT (13%): RS: 1040.00
+==============================
+Product: Moisturizer
+Quantity: 10
+Vendor Name: Loreal
+Total Cost: RS: 4500.00
+VAT (13%): RS: 585.00
+==============================
+Total Amount: Rs: 12500.00
+Total VAT: Rs: 1625.00
+Total Amount Including VAT: Rs: 14125.00
+==============================

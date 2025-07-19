@@ -1,0 +1,20 @@
+WE CARE SKIN PRODUCTS
+Timestamp: 2025:5:19:13:12:10
+Customer Name: bhabin
+==============================
+Product: Moisturizer
+Quantity: 3 | Bonus: 1
+Vendor Name: Loreal
+Total Cost: RS: 1350.00
+VAT (13%): RS: 175.50
+==============================
+Product: Sunscreen
+Quantity: 1 | Bonus: 0
+Vendor Name: Aqualogica
+Total Cost: RS: 700.00
+VAT (13%): RS: 91.00
+==============================
+Total Amount: Rs: 2050.00
+Total VAT: Rs: 266.50
+Total Amount Including VAT: Rs: 2316.50
+===================================

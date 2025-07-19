@@ -1,0 +1,9 @@
+Vitamin C Serum, Garnier, 103, 1000.00, France
+Sunscreen, Aqualogica, 1, 700.00, India
+Toner, Neutrogena, 21, 400.00, USA
+Aloe Vera Gel, Patanjali, 150, 150.00, India
+Hair Serum, Karseli, 11, 200.00, India
+Lip stick, Mac, 8, 2000.00, Australia
+Face wash, Mama Earth, 6, 2000.00, France
+Moisturizer, Loreal, 12, 450.00, France
+Hair cream, Set wet, 10, 200.00, India
